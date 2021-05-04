@@ -1,4 +1,4 @@
-# Hey, [rez1coder](https://rez1coder.github.io) here! <img src="https://raw.githubusercontent.com/rez1coder/rez1coder/main/assets/wave.gif" width="30px"> [![Codeforces Rating](https://cfrating.ihcr.top/?user=rez1coder&style=flat-square)](https://codeforces.com/profile/rez1coder)
+# Hey, [rez1coder](https://rez1coder.github.io) here! <img src="https://raw.githubusercontent.com/rez1coder/rez1coder/main/assets/wave.gif" width="30px"> [![Codeforces Rating](https://cfrating.simanto.io/?user=rez1coder&style=flat-square)](https://codeforces.com/profile/rez1coder)
 
 <img width="50%" align="right" alt="rez1coder's github stats" src="https://github-readme-stats.vercel.app/api?username=rez1coder&show_icons=true&include_all_commits=true">
 
@@ -30,6 +30,9 @@ currently studying in my country Bangladesh 🇧🇩
 
 
 <!--
+[![Codeforces Rating](https://cfrating.ihcr.top/?user=rez1coder&style=flat-square)](https://codeforces.com/profile/rez1coder)
+-
+-
 ![](https://visitor-badge.glitch.me/badge?page_id=rez1coder)
 -
 -
