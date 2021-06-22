@@ -8,7 +8,7 @@ currently studying in my country Bangladesh 🇧🇩
 - :v: a beginner in competitive programming
 - :vertical_traffic_light: language: c++
 - :seedling: exploring the world and learning online
-- :speech_balloon: Ask me about anything [here](mailto:rez1coder@gmail.com) <br>
+- :speech_balloon: Ask me about anything [here](mailto:rezoansimanto@gmail.com) <br>
 
 ### Find me elsewhere 🌎
 <a href="https://discord.com/users/824931657698115604">
